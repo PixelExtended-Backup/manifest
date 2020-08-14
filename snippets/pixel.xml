@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
@@ -31,7 +30,7 @@
           fetch="https://gitlab.com" />
 
   <remote name="FE"
-          fetch="https://github.com/PixelExperience-FanEdition"
+          fetch="https://github.com/PixelExtended"
           revision="ten-plus" />
 
   <!-- CodeAurora additions -->
