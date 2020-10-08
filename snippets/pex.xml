@@ -41,6 +41,7 @@
   <!-- External Repos -->
   <project path="external/tinycompress" name="android_external_tinycompress" remote="pex" />
   <project path="external/selinux" name="android_external_selinux" remote="pex" />
+  <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="pex" revision="ten-plus" />
 
   <!-- Frameworks Repos -->
   <project path="frameworks/base" name="android_frameworks_base" remote="pex" />
