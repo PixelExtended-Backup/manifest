@@ -73,7 +73,6 @@
   <project path="device/custom/sepolicy" name="android_device_custom_sepolicy" remote="pex" />
   <project path="hardware/custom/interfaces" name="android_hardware_custom_interfaces" remote="pex" />
   <project path="vendor/gms" name="platform_vendor_gms" groups="vendor" remote="gitlab/hentaiOS" clone-depth="1"/>
-  <project path="vendor/pixelstyle" name="android_vendor_pixelstyle" groups="vendor" remote="pex" />
 
   <!-- Sepolicy Repos -->
   <project path="device/qcom/sepolicy-legacy-um" name="android_device_qcom_sepolicy-legacy-um" remote="pex" />
