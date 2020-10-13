@@ -72,6 +72,7 @@
   <remove-project name="platform/hardware/nxp/nfc" />
   <remove-project name="platform/hardware/qcom/wlan" />
   <remove-project name="platform/hardware/ril" />
+  <remove-project name="platform/hardware/interfaces" />
 
   <!-- packages -->
   <remove-project name="platform/packages/apps/Browser2" />
@@ -91,6 +92,7 @@
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/libufdt" />
   <remove-project name="platform/system/sepolicy" />
+  <remove-project name="platform/system/vold" />
 
   <!-- More repos -->
   <remove-project name="platform/platform_testing" />

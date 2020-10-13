@@ -63,6 +63,7 @@
   <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="pex" />
   <project path="hardware/qcom-caf/wlan" name="android_hardware_qcom-caf_wlan" groups="qcom_wlan" remote="pex" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="pex" />
+  <project path="hardware/interfaces" name="android_hardware_interfaces" remote="pex" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/abi-dumps/vndk" name="android_prebuilts_abi-dumps_vndk" remote="pex" />
@@ -82,6 +83,7 @@
   <project path="system/bt" name="android_system_bt" groups="pdk" remote="pex" />
   <project path="system/core" name="android_system_core" remote="pex" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="pex" />
+  <project path="system/vold" name="android_system_vold" remote="pex" />
 
   <!-- Other repos -->
   <project path="platform_testing" name="android_platform_testing" remote="pex" />
