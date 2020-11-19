@@ -21,6 +21,10 @@
   <remote  name="gitlab"
            fetch="https://gitlab.com/" />
 
+  <remote name="pixel-gitlab"
+	  fetch="https://gitlab.pixelexperience.org/android"
+          revision="ten" />
+
   <project path="bionic" name="android_bionic" remote="pex" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="pex" />
 
@@ -51,6 +55,7 @@
   <project path="external/tinycompress" name="android_external_tinycompress" remote="pex" />
   <project path="external/selinux" name="android_external_selinux" remote="pex" />
   <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="pex" revision="ten-plus" />
+  <project path="external/motorola/faceunlock" name="external_motorola_faceunlock" remote="pixel-gitlab" />
 
   <!-- Frameworks Repos -->
   <project path="frameworks/base" name="android_frameworks_base" remote="pex" />
